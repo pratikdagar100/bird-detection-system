@@ -1,1 +1,0 @@
-# bird-detection-system
